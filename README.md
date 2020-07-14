@@ -12,6 +12,8 @@ Reach out to me on
 😄 Pronouns: she/her  
 💬 Fun fact: Pandas eat shoots and leaves ;)
 
+www.krnswry.com
+
 <!--
 **karensawrey/karensawrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
