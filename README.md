@@ -7,7 +7,10 @@ Or if you need a speaker for your conference/event to speak about
 * Diversity    
 
 Reach out to me on
-:bird: [Twitter](https://twitter.com/krnswry) or via :email: karen@krnswry.com
+:bird: [Twitter](https://twitter.com/krnswry) or via :email: karen@krnswry.com  
+
+😄 Pronouns: she/her  
+💬 Fun fact: Pandas eat shoots and leaves ;)
 
 <!--
 **karensawrey/karensawrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
