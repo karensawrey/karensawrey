@@ -1,4 +1,13 @@
 ### Hi there 👋
+📫 If you're looking to improve your documentation  
+Or if you need a speaker for your conference/event to speak about    
+* Tech documentation  
+* Security basics  
+* GDPR  
+* Diversity    
+
+Reach out to me on
+:bird: [Twitter](https://twitter.com/krnswry) or via :email: karen@krnswry.com
 
 <!--
 **karensawrey/karensawrey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
